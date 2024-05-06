@@ -1,6 +1,6 @@
 # Visualizing Wildfires in the United States over 18 years
 
-**Authors:** Utsav Sharma
+**Author:** Utsav Sharma
 
 
 - - -
