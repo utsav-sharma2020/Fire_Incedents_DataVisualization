@@ -1,3 +1,3 @@
 # Visualizing Wildfires in the United States over 18 years
 
-**Author:** Utsav Sharma
+**Author:** Eshaan Raj Sharma 
